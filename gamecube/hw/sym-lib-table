@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gameCubeConnPmod-rescue)(type Legacy)(uri ${KIPRJMOD}/gameCubeConnPmod-rescue.lib)(options "")(descr ""))
+)

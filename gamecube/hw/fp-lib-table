@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name gcConn)(type KiCad)(uri "$(KIPRJMOD)/lib/gcConn.pretty")(options "")(descr ""))
+  (lib (name Inductors_SMD)(type KiCad)(uri "$(KISYSMOD)/Inductors_SMD.pretty")(options "")(descr ""))
+)

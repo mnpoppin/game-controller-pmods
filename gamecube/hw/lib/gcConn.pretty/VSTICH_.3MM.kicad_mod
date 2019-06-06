@@ -1,0 +1,10 @@
+(module VSTICH_.3MM (layer F.Cu) (tedit 5A92C032)
+  (fp_text reference REF** (at 0 1.3) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VSTICH_.3MM (at 0 -1.6) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.3) (layers *.Cu *.Mask)
+    (zone_connect 2))
+)
